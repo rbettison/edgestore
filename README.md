@@ -1,3 +1,11 @@
+Hi, I have created a simple Edgestore example project to go in conjunction with the blogpost over on my site: robbettison.com/blog. Hope this helps.
+
+All that is needed is to create a .env file with the edge store api key and secret key of your Edgestore project:
+EDGE_STORE_ACCESS_KEY=your-access-key
+EDGE_STORE_SECRET_KEY=your-secret-key
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
